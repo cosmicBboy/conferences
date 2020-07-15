@@ -19,4 +19,4 @@ Here are my notes from the 5-day conference:
 
 I also gave lightning talk on my independent research on metalearning and
 automl, which can be found
-[here](https://twitter.com/nicholdav/status/1282878056118583298).
+[here](https://twitter.com/nicholdav/status/1282878056118583298?s=20).
